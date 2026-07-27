@@ -108,31 +108,31 @@ one style throughout.
   -----------------------------------------------------------------------
   Journal Section         Main Style to Use       Key Purpose
   ----------------------- ----------------------- -----------------------
-  Abstract                Active + Passive        Summarize what was done
+  **Abstract**               Active + Passive        Summarize what was done
                                                   and what was found.
 
-  Introduction            Active + Indirect       Introduce the topic,
+  ** Introduction**             Active + Indirect       Introduce the topic,
                           speech                  research problem, gap,
                                                   and previous research.
 
-  Literature Review       Indirect speech         Summarize and compare
+  ** Literature Review**        Indirect speech         Summarize and compare
                                                   previous researchers'
                                                   work.
 
-  Methodology / Methods   Passive voice often     Explain what was done
+  ** Methodology / Methods**    Passive voice often     Explain what was done
                           useful                  and how the study was
                                                   conducted.
 
-  Results                 Active + Passive        Report the findings
+  ** Results**                  Active + Passive        Report the findings
                                                   clearly without
                                                   unnecessary
                                                   interpretation.
 
-  Discussion              Active + Indirect       Interpret findings and
+  **Discussion**               Active + Indirect       Interpret findings and
                           speech                  compare them with
                                                   previous studies.
 
-  Conclusion              Active voice mainly     Summarize the main
+  **Conclusion**               Active voice mainly     Summarize the main
                                                   findings, implications,
                                                   and contribution.
   -----------------------------------------------------------------------

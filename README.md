@@ -16,6 +16,7 @@ This repository contains concise notes, examples, rules, and daily-review materi
 | 4 | Five Types of Paragraphs in Academic Research Writing | [Open Notes](five-types-of-paragraphs-academic-research-writing.md) |
 | 5 | Voice and Speech Usage in Research Journal Writing | [Open Notes](research_journal_voice_and_speech_guide.md) |
 | 6 | Words and Patterns to Avoid in Research Journal Writing | [Open Notes](research_journal_words_and_patterns_to_avoid.md) |
+| 7 | Journal Writing — Voice and Tense Quick Reference | [Open Notes](Journal-Writing-Voice-and-Tense-Quick-Reference.md) |
 
 ---
 

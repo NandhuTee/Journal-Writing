@@ -107,13 +107,13 @@ one style throughout.
 
   | Journal Section | Main Style to Use | Key Purpose |
 |---|---|---|
-| **Abstract** | Active + Passive | Summarize what was done and what was found. |
-| **Introduction** | Active + Indirect speech | Introduce the topic, research problem, gap, and previous research. |
-| **Literature Review** | Indirect speech | Summarize and compare previous researchers' work. |
-| **Methodology / Methods** | Passive voice often useful | Explain what was done and how the study was conducted. |
-| **Results** | Active + Passive | Report the findings clearly. |
-| **Discussion** | Active + Indirect speech | Interpret findings and compare them with previous studies. |
-| **Conclusion** | Active voice mainly | Summarize the main findings and implications. |
+| *Abstract* | Active + Passive | Summarize what was done and what was found. |
+| *Introduction* | Active + Indirect speech | Introduce the topic, research problem, gap, and previous research. |
+| *Literature Review**| Indirect speech | Summarize and compare previous researchers' work. |
+| *Methodology / Methods* | Passive voice often useful | Explain what was done and how the study was conducted. |
+| *Results* | Active + Passive | Report the findings clearly. |
+| *Discussion* | Active + Indirect speech | Interpret findings and compare them with previous studies. |
+| *Conclusion* | Active voice mainly | Summarize the main findings and implications. |
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------

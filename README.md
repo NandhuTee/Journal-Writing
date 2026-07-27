@@ -52,11 +52,11 @@ https://www.youtube.com/@chasetechnologies5552
 
 ### GitHub Repository
 
-🔗 [Add your Journal Writing repository link here](https://github.com/NandhuTee)
+🔗 [Journal Writing repository](https://github.com/NandhuTee)
 
 ### GitHub Profile
 
-🔗 [Add your GitHub profile link here](https://nandhini-portfolio-seven.vercel.app/)
+🔗 [GitHub profile](https://nandhini-portfolio-seven.vercel.app/)
 
 ---
 

@@ -156,6 +156,8 @@ one style throughout.
   Direct speech                       **Exact quotation → usually avoid
                                       in scientific journals.**
   -----------------------------------------------------------------------
+![Journal Writing Notes](journal-writing-notes.png)
+
 
 ### Quick Examples
 

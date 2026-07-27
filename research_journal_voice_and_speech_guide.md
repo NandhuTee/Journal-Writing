@@ -111,19 +111,19 @@ one style throughout.
   **Abstract**               Active + Passive        Summarize what was done
                                                   and what was found.
 
-  ** Introduction**             Active + Indirect       Introduce the topic,
+  **Introduction**             Active + Indirect       Introduce the topic,
                           speech                  research problem, gap,
                                                   and previous research.
 
-  ** Literature Review**        Indirect speech         Summarize and compare
+  **Literature Review**        Indirect speech         Summarize and compare
                                                   previous researchers'
                                                   work.
 
-  ** Methodology / Methods**    Passive voice often     Explain what was done
+  **Methodology / Methods**    Passive voice often     Explain what was done
                           useful                  and how the study was
                                                   conducted.
 
-  ** Results**                  Active + Passive        Report the findings
+  **Results**                  Active + Passive        Report the findings
                                                   clearly without
                                                   unnecessary
                                                   interpretation.
